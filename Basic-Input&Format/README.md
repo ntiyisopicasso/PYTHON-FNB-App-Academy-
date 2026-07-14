@@ -29,7 +29,7 @@ FNB-Academy-Portfolio(PYTHON)/
 
 ## 🖥️ Expected Output Profile
 ```text
-=== TUT & FNB App Academy Student Info System ===
+=== Student Info System ===
 
 Enter your first name: sbusiso
 Enter your surname: khumalo
