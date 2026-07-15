@@ -1,0 +1,6 @@
+user often forget their password, create a script to give them hint
+
+ask the user to input their password
+remove space before password and after that might me entered by mistake
+use the first and the last letter as hint (caps)
+print a hint using f string  

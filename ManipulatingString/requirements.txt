@@ -1,0 +1,7 @@
+take user first name,last name, and a short bio message as input.
+create a username by combining first initial and lastname.
+display fulname in title case
+strop bio
+count and display the number of characters in bio
+replace "i am" with "I'm"
+display all output sing f string
